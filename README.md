@@ -14,6 +14,9 @@ The main idea of this project was to show people how the DataTable thing works i
 
 * orange means the students are pretty stressed
 
+* <img width="952" height="485" alt="WIDGET PRESENTATION" src="https://github.com/user-attachments/assets/81f30b3b-cf51-40a5-9d4f-ac56ed5d5a43" />
+
+
 * red means the students are very stressed. I used the DataTable to make it clear how the students are doing. The DataTable is a way to show information, about the students. The DataTable is really helpful. It makes things clear so people do not have to look at every number. This makes it a lot easier to see what is going on with the students. The DataTable shows what is happening with the students and their stress levels. The DataTable is very useful, for understanding the students and their stress levels.
 
 Features
